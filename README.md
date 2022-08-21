@@ -9,11 +9,15 @@
 </p>
 
 ## My stats
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=ronanru&theme=onedark&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
+<p align="center"><a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=ronanru&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronanru&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
-  </a>
-</p>
+</a></p>
 
 ## My projects
+
+[OS Simulator](https://ronanru.com) - In-browser operating system simulator with in-memory filesystem and multiple cool programs.
+
+[ArchExplorer](https://archexplorer.ronanru.dev) - A search engine for ArchLinux packages in standard repos and the AUR.
+
+NPM Packages: [svelte-flip-clock](https://www.npmjs.com/package/svelte-flip-clock), [spworlds](https://www.npmjs.com/package/spworlds).
