@@ -16,7 +16,7 @@
 
 ## My projects
 
-[My FAQ Page](https://ronanru.com) - A web app that allows you to create a beautiful FAQ pages in minutes.
+[My FAQ Page](https://myfaq.pahr) - A web app that allows you to create a beautiful FAQ pages in minutes.
 
 [OS Simulator](https://ronanru.com) - In-browser operating system simulator with in-memory filesystem and multiple cool programs.
 
