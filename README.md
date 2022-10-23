@@ -16,6 +16,8 @@
 
 ## My projects
 
+[My FAQ Page](https://ronanru.com) - A web app that allows you to create a beautiful FAQ pages in minutes.
+
 [OS Simulator](https://ronanru.com) - In-browser operating system simulator with in-memory filesystem and multiple cool programs.
 
 [ArchExplorer](https://archexplorer.ronanru.dev) - A search engine for ArchLinux packages in standard repos and the AUR.
