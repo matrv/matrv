@@ -9,10 +9,10 @@
 </p>
 
 ## My stats
-<p align="center"><a href="#">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ronanru&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronanru&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
-</a></p>
+</p>
 
 ## My projects
 
