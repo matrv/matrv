@@ -4,7 +4,7 @@
 ## My skills
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,deno,svelte,vue,react,tailwindcss,prisma,electron,docker,firebase,linux" alt="TypeScript, JavaScript, Node.js, Deno, Svelte, Vue, React, Tailwindcss, Prisma, Electron, Docker, Firebase, Linux" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,deno,react,solidjs,svelte,vue,nextjs,tailwindcss,prisma,docker,graphql,linux" alt="TypeScript, Node.js, Deno, React, Solid, Svelte, Vue, Next.js, Tailwind, Prisma, Docker, GraphQL, Linux" />
   </a>
 </p>
 
