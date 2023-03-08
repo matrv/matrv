@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Matvey! 👋</h1>
 <p align="center">I work on websites, browser extensions, web, mobile, and desktop applications.</p>
 
-## My skills
+## I work with this tech
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,deno,react,solidjs,svelte,vue,nextjs,tailwindcss,prisma,docker,graphql,linux" alt="TypeScript, Node.js, Deno, React, Solid, Svelte, Vue, Next.js, Tailwind, Prisma, Docker, GraphQL, Linux" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,deno,rust,react,solidjs,svelte,vue,nextjs,tailwindcss,prisma,docker,linux" alt="TypeScript, Node.js, Deno, Rust, React, Solid, Svelte, Vue, Next.js, Tailwind, Prisma, Docker, Linux" />
   </a>
 </p>
 
