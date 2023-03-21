@@ -23,5 +23,3 @@
 [Minecraft Stats Leaderboard](https://github.com/ronanru/mc_stats_leaderboard) - A program to view statistics leaderboards for your Minecraft server.
 
 [ArchExplorer](https://archexplorer.ronanru.dev) - A search engine for ArchLinux packages in standard repos and the AUR.
-
-NPM Packages: [svelte-flip-clock](https://www.npmjs.com/package/svelte-flip-clock), [spworlds](https://www.npmjs.com/package/spworlds).
