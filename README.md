@@ -23,5 +23,3 @@
 [Ronix](https://github.com/ronanru/ronix) - Desktop music player and library manager
 
 [UnoPack](https://unopack.net) - Minecraft Modpack generator
-
-[My FAQ Page](https://myfaq.page) - A web app that allows you to create a beautiful FAQ pages in minutes
