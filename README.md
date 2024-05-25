@@ -3,7 +3,7 @@
 ## My Stack
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,rust,react,solidjs,svelte,nextjs,astro,tailwindcss,nodejs,tauri,prisma,docker,linux" alt="TypeScript, Rust, React, Solid, Svelte (Kit), Next.js, Astro, TailwindCSS, Node.js, Tauri, Prisma, Docker, Linux">
+    <img src="https://skillicons.dev/icons?i=ts,rust,react,solidjs,svelte,nextjs,astro,tailwindcss,nodejs,tauri,elysia,docker,linux" alt="TypeScript, Rust, React, Solid, Svelte (Kit), Next.js, Astro, TailwindCSS, Node.js, Tauri, Elysia, Docker, Linux">
   </a>
 </p>
 
