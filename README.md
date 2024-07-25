@@ -21,4 +21,4 @@
 
 [Ronix](https://github.com/ronanru/ronix) - Desktop music player and library manager
 
-[UnoPack](https://unopack.net](https://github.com/ronanru/unopack) - Minecraft Modpack generator
+[UnoPack](https://github.com/ronanru/unopack) - Minecraft Modpack generator
