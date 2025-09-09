@@ -17,7 +17,7 @@
 
 ## My projects
 
-[OS Simulator](https://ronanru.com) - In-browser operating system simulator with in-memory filesystem and multiple cool programs
+[OS Simulator](https://os.matvey.dev) - In-browser operating system simulator with in-memory filesystem and multiple cool programs
 
 [Ronix](https://github.com/ronanru/ronix) - Desktop music player and library manager
 
