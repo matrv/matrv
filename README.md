@@ -10,8 +10,8 @@
 ## My stats
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=matrv&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matrv&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=matrv&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matrv&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
   </a>
 </p>
 
